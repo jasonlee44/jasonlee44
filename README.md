@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jason 👋
 
-<!--
-**jasonlee44/jasonlee44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UC Irvine, graduating in December 2026.
 
-Here are some ideas to get you started:
+I'm interested in backend development, cloud infrastructure, and building software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, JavaScript, SQL
+- **Backend:** FastAPI, Java Servlets, REST APIs
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Pytest, Maven
+
+### 🚀 Projects
+- **ReleaseGuard** - A simulated network device backend built with FastAPI for automated testing.
+- **Movie Web Application** - A full-stack movie browsing and search application using Java, MySQL, and JavaScript.
+
+### 📫 Connect With Me
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/)
