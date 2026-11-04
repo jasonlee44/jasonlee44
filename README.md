@@ -39,4 +39,4 @@ I'm interested in **full-stack, backend development, and infrastructure**. I enj
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/Jason-Lee04) · [Email](mailto:jasonlee07410@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/Jason-Lee04) · [Email](mailto:jasonlee07410@gmail.com) · [Resume](./Jason_Lee_Resume.pdf)
