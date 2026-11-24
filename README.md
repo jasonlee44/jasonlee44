@@ -19,10 +19,10 @@ I'm interested in **full-stack, backend development, and infrastructure**. I enj
 **[ReleaseGuard](https://github.com/jasonlee44/ReleaseGuard)**
 - Automated release validation tool built with FastAPI, PostgreSQL, and Docker. Simulates service failures, tracks test results, and uses GitHub Actions for automated testing.
 
-**[Movie Web App](https://github.com/uci-jherold2-2026fallb-cs122b/Teamy-McTeamFace-CS122B)**
+**[Movie Web App]**
 - Full-stack movie browsing application built with Java Servlets, MySQL, JavaScript, and AJAX. Features movie search, filtering, sorting, pagination, user authentication, and detailed movie and star pages.
 
-**[Web Search Engine](https://github.com/angeliinawang/cs-121-search-system)**  
+**[Web Search Engine]**  
 - Python search engine indexing over 56,000 web pages using inverted indexing, TF-IDF-style ranking, and a FastAPI search endpoint.
 
 **[Note Taking Web App](https://github.com/jasonlee44/mern-thinkboard)**  
